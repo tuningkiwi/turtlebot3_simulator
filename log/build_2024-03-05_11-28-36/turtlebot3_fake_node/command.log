@@ -1,0 +1,1 @@
+Invoking command in '/home/sdh/turtlebot3_ws/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/home/sdh/robot_ws/install/turtle_pkg:/home/sdh/robot_ws/install/py_pubsub:/opt/ros/foxy /usr/bin/cmake /home/sdh/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_fake_node -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sdh/turtlebot3_ws/install/turtlebot3_fake_node
